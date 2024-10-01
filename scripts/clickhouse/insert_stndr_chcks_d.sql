@@ -1,1 +1,1 @@
-INSERT INTO ch_ods_vldtns.stndr_chcks_d {} VALUES {}
+INSERT INTO ch_ods_vldtns.stndr_chcks_r {} VALUES {}
